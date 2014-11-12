@@ -16,8 +16,17 @@
  * w11-wirelessReceiver is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
- * GNU General Public License at <http://www.gnu.org/licenses/> for more details.
- */ 
+ * 
+ * This file incorporates work covered by the following copyright:
+ *
+ * RFD21733 RFDP8 3-Channel Triple-Mode Wireless Decoder
+ * Copyright (c) RF Digital Corporation
+ * 1601 Pacific Coast Highway, Suite 290
+ * Hermosa Beach, CA, 90254
+ * www.rfdigital.com
+ * Version: 2.0
+ * Date: May 2nd, 2013
+ */
 
 #include "3ch_analog_receiver.h"
 #include <avr/io.h>
